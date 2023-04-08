@@ -7,4 +7,4 @@
 </tr>
 </table>
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+![MOVIE APP](https://i.postimg.cc/Rhy5537z/moviepicker.png)
