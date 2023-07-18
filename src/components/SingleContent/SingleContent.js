@@ -3,18 +3,12 @@ import { img_300, unavailable } from "../../config/config";
 import "./SingleContent.css";
 import ContentModal from "../ContentModal/ContentModal";
 
-const SingleContent = ({
-  id,
-  poster,
-  title,
-  date,
-  media_type,
-  vote_average,
-}) => {
+const SingleContent = (props) => {
+  const {id,poster,title,date,media_type,vote_average,} = props;
   return (
     <ContentModal media_type={media_type} id={id}>
       <Badge
-        badgeContent={vote_average}
+        badgeContent={Math.round(vote_average*10)/10}
         color={vote_average > 6 ? "primary" : "secondary"}
       />
       <img
