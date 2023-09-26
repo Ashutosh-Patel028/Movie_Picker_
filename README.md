@@ -1,4 +1,5 @@
 # Entertainment Hub
+
 <table>
 <tr>
 <td>
@@ -7,4 +8,4 @@
 </tr>
 </table>
 
-![MOVIE APP](https://i.postimg.cc/Rhy5537z/moviepicker.png)
+[![Entertainment-Hub.png](https://i.postimg.cc/fRPGTj0q/Entertainment-Hub.png)](https://postimg.cc/rDSnf4j5)
