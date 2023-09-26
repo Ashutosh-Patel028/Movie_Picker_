@@ -9,6 +9,7 @@
 /coverage
 
 # production
+/build
 
 #Dependency directories
 node_modules/
